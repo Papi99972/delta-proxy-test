@@ -5,7 +5,7 @@
   "main": "index.html",
   "scripts": {
     "start": "serve .",
-    "deploy": "npm start"
+    "deploy": "npm run"
   },
   "dependencies": {
     "serve": "^14.0.1"
