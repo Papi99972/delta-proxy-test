@@ -4,8 +4,8 @@
   "description": "A simple web proxy with a search bar.",
   "main": "index.html",
   "scripts": {
-    "start": "serve .",
-    "deploy": "npm run"
+    "start": "serve ./public", 
+    "deploy": "npm run start"
   },
   "dependencies": {
     "serve": "^14.0.1"
